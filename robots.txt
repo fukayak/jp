@@ -1,1 +1,1 @@
-Sitemap: /jp/sitemap.xml
+Sitemap: http://localhost:4000/jp/sitemap.xml
