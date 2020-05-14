@@ -3,18 +3,34 @@
   <channel>
     <title>Keiichi Fukaya</title>
     <description></description>
-    <link>/jp/</link>
-    <atom:link href="/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Apr 2020 12:38:34 +0900</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2020 12:38:34 +0900</lastBuildDate>
+    <link>https://fukayak.github.io/jp/</link>
+    <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 May 2020 16:48:26 +0900</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 16:48:26 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
+        <title>プレスリリースが公開されました</title>
+        <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究（&lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Fukaya et al. 2020, &lt;em&gt;Nature Communications&lt;/em&gt;&lt;/a&gt;）に関するプレスリリースが公開されました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nies.go.jp/whatsnew/20200514/20200514.html&quot; target=&quot;_blank&quot;&gt;国立環境研究所のホームページ&lt;/a&gt;から閲覧できます。&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
+    
+      <item>
         <title>新しい論文が出版されました</title>
-        <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究がNature Communications誌で公開されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, B. Kusumoto, T. Shiono, J. Fujinuma and Y. Kubota (2020) &lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Integrating multiple sources of ecological data to unveil macroscale species abundance.&lt;/a&gt; &lt;strong&gt;Nature...</description>
+        <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究がNature Communications誌に掲載されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, B. Kusumoto, T. Shiono, J. Fujinuma and Y. Kubota (2020) &lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Integrating multiple sources of ecological data to unveil macroscale species abundance.&lt;/a&gt; &lt;strong&gt;Nature...</description>
         <pubDate>Fri, 03 Apr 2020 00:00:00 +0900</pubDate>
-        <link>/jp/archive/2020/04/03/new-paper.html</link>
-        <guid isPermaLink="true">/jp/archive/2020/04/03/new-paper.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</guid>
         
         
         <category>archive</category>
@@ -31,8 +47,8 @@
 
 </description>
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0900</pubDate>
-        <link>/jp/archive/2020/04/01/kaken.html</link>
-        <guid isPermaLink="true">/jp/archive/2020/04/01/kaken.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</guid>
         
         
         <category>archive</category>
@@ -45,8 +61,8 @@
 
 </description>
         <pubDate>Sun, 29 Mar 2020 00:00:00 +0900</pubDate>
-        <link>/jp/archive/2020/03/29/new-web-site.html</link>
-        <guid isPermaLink="true">/jp/archive/2020/03/29/new-web-site.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/03/29/new-web-site.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/03/29/new-web-site.html</guid>
         
         
         <category>archive</category>
