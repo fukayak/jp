@@ -5,9 +5,24 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Aug 2020 22:26:06 +0900</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2020 22:26:06 +0900</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2020 00:24:02 +0900</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2020 00:24:02 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>統計数理研究所リーディングDAT講座</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.ism.ac.jp/shikoin/training/leadingdat/2020/index.html&quot; target=&quot;_blank&quot;&gt;2020年度統数研リーディングDAT講座&lt;/a&gt;の案内が公開されました。
+私は&lt;a href=&quot;https://www.ism.ac.jp/shikoin/training/leadingdat/2020/lb1.html&quot; target=&quot;_blank&quot;&gt;L-B1講座「統計モデリング入門」&lt;/a&gt;の初日「統計モデリングの基本と実践―線形モデルから階層ベイズへ」を担当します。&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 25 Oct 2020 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>セミナーで講演します</title>
