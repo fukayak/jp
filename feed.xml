@@ -5,9 +5,35 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Oct 2020 00:24:02 +0900</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2020 00:24:02 +0900</lastBuildDate>
+    <pubDate>Sat, 26 Dec 2020 18:34:49 +0900</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2020 18:34:49 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>生態学のための階層モデリング</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058149&quot; target=&quot;_blank&quot;&gt;生態学のための階層モデリング―RとBUGSによる分布・個体数量・種の豊かさの統計解析―（共立出版）&lt;/a&gt;が2月に刊行予定です。&lt;/p&gt; &lt;p&gt;この本は、&lt;a href=&quot;https://www.elsevier.com/books/applied-hierarchical-modeling-in-ecology-analysis-of-distribution-abundance-and-species-richness-in-r-and-bugs/kery/978-0-12-801378-6&quot; target=&quot;_blank&quot;&gt;Marc Kéry and J. Andrew Royle (2016) Applied Hierarchical Modeling in Ecology: Analysis of Distribution, Abundance and Species Richness in R and BUGS: Volume 1:...</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
+    
+      <item>
+        <title>個体群生態学会奨励賞</title>
+        <description>&lt;p&gt;この度、個体群生態学会より&lt;a href=&quot;https://www.population-ecology.jp/%E5%AD%A6%E4%BC%9A%E8%B3%9E/&quot; target=&quot;_blank&quot;&gt;個体群生態学会奨励賞&lt;/a&gt;を受賞いたしました。これまでの私の研究活動を支えて下さった皆様に感謝申し上げます。今回の受賞を励みとして、一層の研究発展に努めていきたいと考えています。&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Nov 2020 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2020/11/15/award.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/11/15/award.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>統計数理研究所リーディングDAT講座</title>
