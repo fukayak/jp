@@ -5,9 +5,25 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jul 2021 22:26:24 +0900</pubDate>
-    <lastBuildDate>Wed, 14 Jul 2021 22:26:24 +0900</lastBuildDate>
+    <pubDate>Wed, 25 Aug 2021 21:07:33 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Aug 2021 21:07:33 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>統計数理研究所リーディングDAT講座</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.ism.ac.jp/lectures/leadingdat/2021/index.html&quot; target=&quot;_blank&quot;&gt;2021年度統数研リーディングDAT講座&lt;/a&gt;の案内が公開されました。
+今年度もオンラインでの開催です。
+私は&lt;a href=&quot;https://www.ism.ac.jp/lectures/leadingdat/2021/lb1.html&quot; target=&quot;_blank&quot;&gt;L-B1講座「統計モデリング入門」&lt;/a&gt;の初日「統計モデリングの基本と実践―線形モデルから階層ベイズへ」と&lt;a href=&quot;https://www.ism.ac.jp/lectures/leadingdat/2021/course.html&quot; target=&quot;_blank&quot;&gt;リーディングDAT養成コース&lt;/a&gt;を担当します。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Aug 2021 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>日本生態学会宮地賞</title>
@@ -130,20 +146,6 @@
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0900</pubDate>
         <link>https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</link>
         <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>新しいサイト</title>
-        <description>&lt;p&gt;公開しました。&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 29 Mar 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/03/29/new-web-site.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/03/29/new-web-site.html</guid>
         
         
         <category>archive</category>
