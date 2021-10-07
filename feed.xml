@@ -5,9 +5,21 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Aug 2021 21:07:33 +0900</pubDate>
-    <lastBuildDate>Wed, 25 Aug 2021 21:07:33 +0900</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Thu, 07 Oct 2021 21:48:34 +0900</pubDate>
+    <lastBuildDate>Thu, 07 Oct 2021 21:48:34 +0900</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>新しい論文が出版されました</title>
+        <description>&lt;p&gt;環境DNAメタバーコーディングにおける種の検出誤差を考慮した新しい統計モデルに関する研究がMethods in Ecology and Evolution誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, N. I. Kondo, S. S. Matsuzaki and T. Kadoya (2021) &lt;a href=&quot;https://doi.org/10.1111/2041-210X.13732&quot; target=&quot;_blank&quot;&gt;Multispecies site occupancy modeling and study design for spatially...</description>
+        <pubDate>Thu, 07 Oct 2021 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>統計数理研究所リーディングDAT講座</title>
@@ -128,24 +140,6 @@
         <pubDate>Fri, 03 Apr 2020 00:00:00 +0900</pubDate>
         <link>https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</link>
         <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>科研費が採択されました</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;環境DNA分析による検出誤差を踏まえた種多様性評価手法の開発と検証. 日本学術振興会 科研費基盤研究（C）. 2020–2022年度.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;検出誤差を考慮した種分布推定を可能とするサイト占有モデルを拡張することで、環境DNAメタバーコーディングによる種多様性の評価や予測を、正確かつ効率的に行うための枠組みを構築します。&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 01 Apr 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/01/kaken.html</guid>
         
         
         <category>archive</category>
