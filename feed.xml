@@ -3,18 +3,18 @@
   <channel>
     <title>Keiichi Fukaya</title>
     <description></description>
-    <link>http://localhost:4000/jp/</link>
-    <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Feb 2022 14:52:10 +0900</pubDate>
-    <lastBuildDate>Mon, 07 Feb 2022 14:52:10 +0900</lastBuildDate>
+    <link>https://fukayak.github.io/jp/</link>
+    <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Apr 2022 11:43:22 +0900</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 11:43:22 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
         <title>新しい論文が出版されました</title>
         <description>&lt;p&gt;環境DNAメタバーコーディングにおける種の検出誤差を考慮した新しい統計モデルに関する研究がMethods in Ecology and Evolution誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, N. I. Kondo, S. S. Matsuzaki and T. Kadoya (2021) &lt;a href=&quot;https://doi.org/10.1111/2041-210X.13732&quot; target=&quot;_blank&quot;&gt;Multispecies site occupancy modeling and study design for spatially...</description>
         <pubDate>Thu, 07 Oct 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2021/10/07/new-paper.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/10/07/new-paper.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</guid>
         
         
         <category>archive</category>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Wed, 25 Aug 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2021/08/25/ismldat.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/08/25/ismldat.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Sat, 20 Mar 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2021/03/20/award.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/03/20/award.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2021/03/20/award.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/03/20/award.html</guid>
         
         
         <category>archive</category>
@@ -55,8 +55,8 @@
         <title>生態学のための階層モデリング</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058149&quot; target=&quot;_blank&quot;&gt;生態学のための階層モデリング―RとBUGSによる分布・個体数量・種の豊かさの統計解析―（共立出版）&lt;/a&gt;が2月に刊行予定です。&lt;/p&gt; &lt;p&gt;この本は、&lt;a href=&quot;https://www.elsevier.com/books/applied-hierarchical-modeling-in-ecology-analysis-of-distribution-abundance-and-species-richness-in-r-and-bugs/kery/978-0-12-801378-6&quot; target=&quot;_blank&quot;&gt;Marc Kéry and J. Andrew Royle (2016) Applied Hierarchical Modeling in Ecology: Analysis of Distribution, Abundance and Species Richness in R and BUGS: Volume 1:...</description>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</guid>
         
         
         <category>archive</category>
@@ -69,8 +69,8 @@
 
 </description>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/11/15/award.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/11/15/award.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/11/15/award.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/11/15/award.html</guid>
         
         
         <category>archive</category>
@@ -84,8 +84,8 @@
 
 </description>
         <pubDate>Sun, 25 Oct 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/10/25/ismldat.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/10/25/ismldat.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -98,8 +98,8 @@
 
 </description>
         <pubDate>Fri, 07 Aug 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/08/07/seminar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/08/07/seminar.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</guid>
         
         
         <category>archive</category>
@@ -110,8 +110,8 @@
         <title>新しい論文が出版されました</title>
         <description>&lt;p&gt;環境DNA分析に基づく水性生物の個体数推定法を提案した研究がMolecular Ecology誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, Hiroaki Murakami, Seokjin Yoon, Kenji Minami, Yutaka Osada, Satoshi Yamamoto, Reiji Masuda, Akihide Kasai, Kazushi Miyashita, Toshifumi Minamoto and Michio Kondoh (2020) &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/mec.15530&quot;...</description>
         <pubDate>Fri, 03 Jul 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/07/03/new-paper.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/07/03/new-paper.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</guid>
         
         
         <category>archive</category>
@@ -126,8 +126,8 @@
 
 </description>
         <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/05/14/news-release.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/05/14/news-release.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</guid>
         
         
         <category>archive</category>
@@ -138,8 +138,8 @@
         <title>新しい論文が出版されました</title>
         <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究がNature Communications誌に掲載されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, B. Kusumoto, T. Shiono, J. Fujinuma and Y. Kubota (2020) &lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Integrating multiple sources of ecological data to unveil macroscale species abundance.&lt;/a&gt; &lt;strong&gt;Nature...</description>
         <pubDate>Fri, 03 Apr 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/archive/2020/04/03/new-paper.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/04/03/new-paper.html</guid>
+        <link>https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</guid>
         
         
         <category>archive</category>
