@@ -5,9 +5,23 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2022 11:43:22 +0900</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2022 11:43:22 +0900</lastBuildDate>
+    <pubDate>Wed, 20 Apr 2022 14:27:35 +0900</pubDate>
+    <lastBuildDate>Wed, 20 Apr 2022 14:27:35 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>若手科学者賞</title>
+        <description>&lt;p&gt;この度、個体群生態学会の推薦により令和3年度科学技術分野の文部科学大臣表彰 若手科学者賞を受賞いたしました。本日が授賞式でした。私の研究活動に関わって下さった全ての皆様に改めて感謝を申し上げます。今回の受賞を励みとして、一層の努力を重ねて参りたいと思います。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Apr 2022 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2022/04/20/award.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/04/20/award.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>新しい論文が出版されました</title>
@@ -128,18 +142,6 @@
         <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
         <link>https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</link>
         <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>新しい論文が出版されました</title>
-        <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究がNature Communications誌に掲載されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, B. Kusumoto, T. Shiono, J. Fujinuma and Y. Kubota (2020) &lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Integrating multiple sources of ecological data to unveil macroscale species abundance.&lt;/a&gt; &lt;strong&gt;Nature...</description>
-        <pubDate>Fri, 03 Apr 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/04/03/new-paper.html</guid>
         
         
         <category>archive</category>
