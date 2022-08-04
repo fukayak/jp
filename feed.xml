@@ -5,9 +5,27 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 May 2022 22:31:39 +0900</pubDate>
-    <lastBuildDate>Sat, 28 May 2022 22:31:39 +0900</lastBuildDate>
+    <pubDate>Thu, 04 Aug 2022 15:01:12 +0900</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2022 15:01:12 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>統計関連学会連合大会</title>
+        <description>&lt;p&gt;9月に成蹊大学で行われる&lt;a href=&quot;https://confit.atlas.jp/guide/event/jfssa2022/top&quot; target=&quot;_blank&quot;&gt;2022年度統計関連学会連合大会&lt;/a&gt;のチュートリアルセッションで講師を担当します。&lt;/p&gt;
+
+&lt;p&gt;昨年出版された&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058149&quot; target=&quot;_blank&quot;&gt;生態学のための階層モデリング―RとBUGSによる分布・個体数量・種の豊かさの統計解析―（共立出版）&lt;/a&gt;の内容に基づき、関連する統計モデリングの話題を紹介します。&lt;/p&gt;
+
+&lt;p&gt;概要は&lt;a href=&quot;http://www.jfssa.jp/wp-content/uploads/2022/2022announce3_220510.pdf&quot; target=&quot;_blank&quot;&gt;こちら&lt;/a&gt;からご覧になれます。&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>若手科学者賞</title>
@@ -126,22 +144,6 @@
         <pubDate>Fri, 03 Jul 2020 00:00:00 +0900</pubDate>
         <link>https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</link>
         <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>プレスリリースが公開されました</title>
-        <description>&lt;p&gt;木本植物の個体数を網羅的に推定した研究（&lt;a href=&quot;https://www.nature.com/articles/s41467-020-15407-5&quot; target=&quot;_blank&quot;&gt;Fukaya et al. 2020, &lt;em&gt;Nature Communications&lt;/em&gt;&lt;/a&gt;）に関するプレスリリースが公開されました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.nies.go.jp/whatsnew/20200514/20200514.html&quot; target=&quot;_blank&quot;&gt;国立環境研究所のホームページ&lt;/a&gt;から閲覧できます。&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/05/14/news-release.html</guid>
         
         
         <category>archive</category>
