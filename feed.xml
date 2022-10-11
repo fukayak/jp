@@ -5,9 +5,25 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Aug 2022 15:01:12 +0900</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2022 15:01:12 +0900</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2022 16:30:59 +0900</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2022 16:30:59 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>統計数理研究所リーディングDAT講座</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.ism.ac.jp/lectures/leadingdat/2022/index.html&quot; target=&quot;_blank&quot;&gt;2022年度統数研リーディングDAT講座&lt;/a&gt;の案内が公開されました。
+今年度もオンラインでの開催です。
+私は&lt;a href=&quot;https://www.ism.ac.jp/lectures/leadingdat/2022/lb.html&quot; target=&quot;_blank&quot;&gt;L-B講座「統計モデリング入門」&lt;/a&gt;の初日「統計モデリングの基本と実践―線形モデルから階層ベイズへ」を担当します。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 11 Oct 2022 00:00:00 +0900</pubDate>
+        <link>https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</link>
+        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>統計関連学会連合大会</title>
@@ -132,18 +148,6 @@
         <pubDate>Fri, 07 Aug 2020 00:00:00 +0900</pubDate>
         <link>https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</link>
         <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>新しい論文が出版されました</title>
-        <description>&lt;p&gt;環境DNA分析に基づく水性生物の個体数推定法を提案した研究がMolecular Ecology誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, Hiroaki Murakami, Seokjin Yoon, Kenji Minami, Yutaka Osada, Satoshi Yamamoto, Reiji Masuda, Akihide Kasai, Kazushi Miyashita, Toshifumi Minamoto and Michio Kondoh (2020) &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/mec.15530&quot;...</description>
-        <pubDate>Fri, 03 Jul 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/07/03/new-paper.html</guid>
         
         
         <category>archive</category>
