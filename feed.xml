@@ -3,11 +3,30 @@
   <channel>
     <title>Keiichi Fukaya</title>
     <description></description>
-    <link>https://fukayak.github.io/jp/</link>
-    <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2022 15:26:47 +0900</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2022 15:26:47 +0900</lastBuildDate>
+    <link>http://localhost:4000/jp/</link>
+    <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Jan 2023 21:45:24 +0900</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2023 21:45:24 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>生態学のための標本抽出法</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058392&quot; target=&quot;_blank&quot;&gt;生態学のための標本抽出法（共立出版）&lt;/a&gt;が2023年2月に刊行予定です。
+この本は、&lt;a href=&quot;https://www.routledge.com/Introduction-to-Ecological-Sampling/Manly-Alberto/p/book/9781466555143&quot; target=&quot;_blank&quot;&gt;Bryan F. J. Manly and Jorge A. Navarro Alberto (Eds.) (2015) Introduction to Ecological Sampling&lt;/a&gt;の邦訳です。&lt;/p&gt;
+
+&lt;p&gt;訳者の力量不足のために邦訳の出版まで時間がかかってしまいましたが、本書は生態学分野における標本抽出の話題を幅広く扱った入門書であり、類書の少ない本だと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://esj-meeting.net/home_ja/&quot; target=&quot;_blank&quot;&gt;生態学会大会&lt;/a&gt;の共立出版ブース（オンライン）では割引価格での販売が予定されていると聞いています。ぜひご覧いただければ幸いです。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Jan 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/archive/2023/01/31/samplingbook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2023/01/31/samplingbook.html</guid>
+        
+        
+        <category>archive</category>
+        
+      </item>
     
       <item>
         <title>統計数理研究所リーディングDAT講座</title>
@@ -17,8 +36,8 @@
 
 </description>
         <pubDate>Tue, 11 Oct 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/10/11/ismldat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/10/11/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -35,8 +54,8 @@
 
 </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/08/04/tutorial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/08/04/tutorial.html</guid>
         
         
         <category>archive</category>
@@ -49,8 +68,8 @@
 
 </description>
         <pubDate>Wed, 20 Apr 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/04/20/award.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/04/20/award.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/04/20/award.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/04/20/award.html</guid>
         
         
         <category>archive</category>
@@ -61,8 +80,8 @@
         <title>新しい論文が出版されました</title>
         <description>&lt;p&gt;環境DNAメタバーコーディングにおける種の検出誤差を考慮した新しい統計モデルに関する研究がMethods in Ecology and Evolution誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, N. I. Kondo, S. S. Matsuzaki and T. Kadoya (2021) &lt;a href=&quot;https://doi.org/10.1111/2041-210X.13732&quot; target=&quot;_blank&quot;&gt;Multispecies site occupancy modeling and study design for spatially...</description>
         <pubDate>Thu, 07 Oct 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/10/07/new-paper.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/10/07/new-paper.html</guid>
         
         
         <category>archive</category>
@@ -77,8 +96,8 @@
 
 </description>
         <pubDate>Wed, 25 Aug 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/08/25/ismldat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/08/25/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -91,8 +110,8 @@
 
 </description>
         <pubDate>Sat, 20 Mar 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/03/20/award.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/03/20/award.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/03/20/award.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/03/20/award.html</guid>
         
         
         <category>archive</category>
@@ -103,8 +122,8 @@
         <title>生態学のための階層モデリング</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058149&quot; target=&quot;_blank&quot;&gt;生態学のための階層モデリング―RとBUGSによる分布・個体数量・種の豊かさの統計解析―（共立出版）&lt;/a&gt;が2月に刊行予定です。&lt;/p&gt; &lt;p&gt;この本は、&lt;a href=&quot;https://www.elsevier.com/books/applied-hierarchical-modeling-in-ecology-analysis-of-distribution-abundance-and-species-richness-in-r-and-bugs/kery/978-0-12-801378-6&quot; target=&quot;_blank&quot;&gt;Marc Kéry and J. Andrew Royle (2016) Applied Hierarchical Modeling in Ecology: Analysis of Distribution, Abundance and Species Richness in R and BUGS: Volume 1:...</description>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</guid>
+        <link>http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</guid>
         
         
         <category>archive</category>
@@ -117,8 +136,8 @@
 
 </description>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/11/15/award.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/11/15/award.html</guid>
+        <link>http://localhost:4000/jp/archive/2020/11/15/award.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/11/15/award.html</guid>
         
         
         <category>archive</category>
@@ -132,22 +151,8 @@
 
 </description>
         <pubDate>Sun, 25 Oct 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/10/25/ismldat.html</guid>
-        
-        
-        <category>archive</category>
-        
-      </item>
-    
-      <item>
-        <title>セミナーで講演します</title>
-        <description>&lt;p&gt;2020年8月11日の「 &lt;a href=&quot;http://pen.envr.tsukuba.ac.jp/~toranoana/?%CD%BD%C4%EA%A4%C8%CD%FA%CE%F2&quot; target=&quot;_blank&quot;&gt;リモセン虎の穴セミナー&lt;/a&gt;」にて、環境DNA分析による個体数推定の研究について発表予定です。&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Aug 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/08/07/seminar.html</guid>
+        <link>http://localhost:4000/jp/archive/2020/10/25/ismldat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/10/25/ismldat.html</guid>
         
         
         <category>archive</category>
