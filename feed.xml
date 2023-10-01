@@ -5,15 +5,15 @@
     <description></description>
     <link>https://fukayak.github.io/jp/</link>
     <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Oct 2023 19:39:12 +0900</pubDate>
-    <lastBuildDate>Sun, 01 Oct 2023 19:39:12 +0900</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2023 19:52:33 +0900</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2023 19:52:33 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
         <title>Rパッケージの公開</title>
         <description>&lt;p&gt;Rパッケージoccumbが&lt;a href=&quot;https://cran.r-project.org/package=occumb&quot; target=&quot;_blank&quot;&gt;CRAN&lt;/a&gt;で利用可能になりました。&lt;/p&gt;
 
-&lt;p&gt;occumbは、環境DNAメタバーコーディングのための多種サイト占有モデルを簡便に扱うことができるRパッケージです。&lt;/p&gt;
+&lt;p&gt;occumbは、&lt;a href=&quot;https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html&quot; target=&quot;_blank&quot;&gt;環境DNAメタバーコーディングのための多種サイト占有モデル&lt;/a&gt;を簡便に扱うことができるRパッケージです。&lt;/p&gt;
 
 &lt;p&gt;パッケージの概要は&lt;a href=&quot;https://fukayak.github.io/occumb/&quot; target=&quot;_blank&quot;&gt;こちらのページ&lt;/a&gt;でご覧になれます。&lt;/p&gt;
 
