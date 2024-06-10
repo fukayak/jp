@@ -3,10 +3,10 @@
   <channel>
     <title>Keiichi Fukaya</title>
     <description></description>
-    <link>https://fukayak.github.io/jp/</link>
-    <atom:link href="https://fukayak.github.io/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2024 20:32:56 +0900</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2024 20:32:56 +0900</lastBuildDate>
+    <link>http://localhost:4000/jp/</link>
+    <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Jun 2024 11:58:59 +0900</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 11:58:59 +0900</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2023 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2023/10/01/rpackage.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2023/10/01/rpackage.html</guid>
+        <link>http://localhost:4000/jp/archive/2023/10/01/rpackage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2023/10/01/rpackage.html</guid>
         
         
         <category>archive</category>
@@ -35,8 +35,8 @@
 
 </description>
         <pubDate>Fri, 07 Apr 2023 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2023/04/07/seminar.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2023/04/07/seminar.html</guid>
+        <link>http://localhost:4000/jp/archive/2023/04/07/seminar.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2023/04/07/seminar.html</guid>
         
         
         <category>archive</category>
@@ -54,8 +54,8 @@
 
 </description>
         <pubDate>Tue, 31 Jan 2023 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2023/01/31/samplingbook.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2023/01/31/samplingbook.html</guid>
+        <link>http://localhost:4000/jp/archive/2023/01/31/samplingbook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2023/01/31/samplingbook.html</guid>
         
         
         <category>archive</category>
@@ -70,8 +70,8 @@
 
 </description>
         <pubDate>Tue, 11 Oct 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/10/11/ismldat.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/10/11/ismldat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/10/11/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -88,8 +88,8 @@
 
 </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/08/04/tutorial.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/08/04/tutorial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/08/04/tutorial.html</guid>
         
         
         <category>archive</category>
@@ -102,8 +102,8 @@
 
 </description>
         <pubDate>Wed, 20 Apr 2022 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2022/04/20/award.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2022/04/20/award.html</guid>
+        <link>http://localhost:4000/jp/archive/2022/04/20/award.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2022/04/20/award.html</guid>
         
         
         <category>archive</category>
@@ -114,8 +114,8 @@
         <title>新しい論文が出版されました</title>
         <description>&lt;p&gt;環境DNAメタバーコーディングにおける種の検出誤差を考慮した新しい統計モデルに関する研究がMethods in Ecology and Evolution誌でオンライン出版されました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;font color=&quot;#d35400&quot;&gt;K. Fukaya&lt;/font&gt;&lt;/strong&gt;, N. I. Kondo, S. S. Matsuzaki and T. Kadoya (2021) &lt;a href=&quot;https://doi.org/10.1111/2041-210X.13732&quot; target=&quot;_blank&quot;&gt;Multispecies site occupancy modeling and study design for spatially...</description>
         <pubDate>Thu, 07 Oct 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/10/07/new-paper.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/10/07/new-paper.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/10/07/new-paper.html</guid>
         
         
         <category>archive</category>
@@ -130,8 +130,8 @@
 
 </description>
         <pubDate>Wed, 25 Aug 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/08/25/ismldat.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/08/25/ismldat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/08/25/ismldat.html</guid>
         
         
         <category>archive</category>
@@ -144,8 +144,8 @@
 
 </description>
         <pubDate>Sat, 20 Mar 2021 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2021/03/20/award.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2021/03/20/award.html</guid>
+        <link>http://localhost:4000/jp/archive/2021/03/20/award.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2021/03/20/award.html</guid>
         
         
         <category>archive</category>
@@ -156,8 +156,8 @@
         <title>生態学のための階層モデリング</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320058149&quot; target=&quot;_blank&quot;&gt;生態学のための階層モデリング―RとBUGSによる分布・個体数量・種の豊かさの統計解析―（共立出版）&lt;/a&gt;が2月に刊行予定です。&lt;/p&gt; &lt;p&gt;この本は、&lt;a href=&quot;https://www.elsevier.com/books/applied-hierarchical-modeling-in-ecology-analysis-of-distribution-abundance-and-species-richness-in-r-and-bugs/kery/978-0-12-801378-6&quot; target=&quot;_blank&quot;&gt;Marc Kéry and J. Andrew Royle (2016) Applied Hierarchical Modeling in Ecology: Analysis of Distribution, Abundance and Species Richness in R and BUGS: Volume 1:...</description>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
-        <link>https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</link>
-        <guid isPermaLink="true">https://fukayak.github.io/jp/archive/2020/12/26/ahmbook.html</guid>
+        <link>http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/archive/2020/12/26/ahmbook.html</guid>
         
         
         <category>archive</category>
